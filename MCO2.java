@@ -6,10 +6,6 @@ public class MCO2 {
 //undirected graphs
     Scanner sc = new Scanner(System.in);
 
-
-
-
-
 public void runMainMenu(){
     
 System.out.println("MAIN MENU");
